@@ -7,16 +7,20 @@ const router = express.Router();
 const statesRouter = require("./v1/states");
 router.use("/api/v1/states", statesRouter);
 
-
 const citiesRouter = require("./v1/cities");
 router.use("/api/v1/cities", citiesRouter);
-
 
 const phoneCodeRouter = require("./v1/phoneCode");
 router.use("/api/v1/phoneCode", phoneCodeRouter);
 
 const timeZonesRouter = require("./v1/timeZones");
 router.use("/api/v1/timeZones", timeZonesRouter);
+
+const getUniRouter = require("./v1/getUni");
+router.use("/api/v1/getAllUni", getUniRouter);
+
+const getWeatherRouter = require("./v1/weather");
+router.use("/api/v1/getWeather", getWeatherRouter);
 
 const getAll = require("app/http/controllers/getAll");
 router.use("/",getAll.getAll)
