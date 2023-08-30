@@ -15,6 +15,11 @@ router.use("/api/v1/cities", citiesRouter);
 const phoneCodeRouter = require("./v1/phoneCode");
 router.use("/api/v1/phoneCode", phoneCodeRouter);
 
+const timeZonesRouter = require("./v1/timeZones");
+router.use("/api/v1/timeZones", timeZonesRouter);
+
+const getAll = require("app/http/controllers/getAll");
+router.use("/",getAll.getAll)
 
 //*>---------- not found route
 
