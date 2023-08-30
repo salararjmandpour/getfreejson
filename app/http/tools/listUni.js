@@ -1044,6 +1044,41 @@ const getAllUni = (req, res) => {
       NumberOfFaculties: "4",
       id: 148,
     },
+    {
+      name: "دانشگاه علوم پزشکی قزوین",
+      city: "قزوین",
+      establishedYear: "1364",
+      NumberOfFaculties: "5",
+      id: 149,
+    },
+    {
+      name: "دانشگاه علوم پزشکی قم",
+      city: "قم",
+      establishedYear: "1376",
+      NumberOfFaculties: "7",
+      id: 150,
+    },
+    {
+      name: "دانشگاه علوم پزشکی کاشان",
+      city: "کاشان",
+      establishedYear: "1365",
+      NumberOfFaculties: "6",
+      id: 151,
+    },
+    {
+      name: "دانشگاه علوم پزشکی کردستان",
+      city: "سنندج",
+      establishedYear: "1365",
+      NumberOfFaculties: "5",
+      id: 152,
+    },
+    {
+      name: "دانشگاه علوم پزشکی کرمان",
+      city: "کرمان",
+      establishedYear: "1356",
+      NumberOfFaculties: "10",
+      id: 153,
+    },
   ]);
 };
 
