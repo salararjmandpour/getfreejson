@@ -1128,6 +1128,34 @@ const getAllUni = (req, res) => {
       NumberOfFaculties: "11",
       id: 160,
     },
+    {
+      name: "دانشگاه علوم پزشکی هرمزگان",
+      city: "بندرعباس",
+      establishedYear: "1365",
+      NumberOfFaculties: "9",
+      id: 161,
+    },
+    {
+      name: "دانشگاه علوم پزشکی همدان",
+      city: "همدان",
+      establishedYear: "1354",
+      NumberOfFaculties: "12",
+      id: 162,
+    },
+    {
+      name: "دانشگاه علوم پزشکی نیشابور",
+      city: "نیشابور",
+      establishedYear: "1388",
+      NumberOfFaculties: "4",
+      id: 163,
+    },
+    {
+      name: "دانشگاه علوم پزشکی یاسوج",
+      city: "یاسوج",
+      establishedYear: "1369",
+      NumberOfFaculties: "5",
+      id: 164,
+    },
   ]);
 };
 
