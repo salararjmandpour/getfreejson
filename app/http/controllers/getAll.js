@@ -1,6 +1,6 @@
 const getAll = (req, res) => {
 
-     return res.redirect("https://jsondoc.iran.liara.run/");
+     return res.redirect("https://getfreejson.ir/");
 }
 
 
