@@ -1079,6 +1079,55 @@ const getAllUni = (req, res) => {
       NumberOfFaculties: "10",
       id: 153,
     },
+    {
+      name: "دانشگاه علوم پزشکی کرمانشاه",
+      city: "کرمانشاه	",
+      establishedYear: "1344",
+      NumberOfFaculties: "9",
+      id: 154,
+    },
+    {
+      name: "دانشگاه علوم پزشکی گلستان",
+      city: "گرگان	",
+      establishedYear: "1370",
+      NumberOfFaculties: "7",
+      id: 155,
+    },
+    {
+      name: "دانشگاه علوم پزشکی گناباد",
+      city: "گناباد	",
+      establishedYear: "1365",
+      NumberOfFaculties: "4",
+      id: 156,
+    },
+    {
+      name: "دانشگاه علوم پزشکی گیلان",
+      city: "رشت	",
+      establishedYear: "1363",
+      NumberOfFaculties: "8",
+      id: 157,
+    },
+    {
+      name: "دانشگاه علوم پزشکی لرستان",
+      city: "خرم‌آباد	",
+      establishedYear: "1368",
+      NumberOfFaculties: "10",
+      id: 158,
+    },
+    {
+      name: "دانشگاه علوم پزشکی مازندران",
+      city: "ساری	",
+      establishedYear: "1354",
+      NumberOfFaculties: "11",
+      id: 159,
+    },
+    {
+      name: "دانشگاه علوم پزشکی مشهد",
+      city: "مشهد	",
+      establishedYear: "1328",
+      NumberOfFaculties: "11",
+      id: 160,
+    },
   ]);
 };
 
