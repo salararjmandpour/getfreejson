@@ -1,2 +1,0 @@
-# getfreejson
-free json api
