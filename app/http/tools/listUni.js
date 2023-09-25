@@ -1997,6 +1997,38 @@ const getAllUni = (req, res) => {
       NumberOfFaculties: "",
       id: 282,
     },
+    {
+      name: "آموزشکده فنی و حرفه‌ای دختران ارومیه",
+      city: "ارومیه",
+      sex: "دختر",
+      establishedYear: "",
+      NumberOfFaculties: "",
+      id: 283,
+    },
+    {
+      name: "آموزشکده فنی و حرفه‌ای شهید بهشتی",
+      city: "ارومیه",
+      sex: "پسر",
+      establishedYear: "",
+      NumberOfFaculties: "",
+      id: 284,
+    },
+    {
+      name: "آموزشکده فنی و حرفه‌ای دختران خوی",
+      city: "خوی",
+      sex: "دختر",
+      establishedYear: "",
+      NumberOfFaculties: "",
+      id: 285,
+    },
+    {
+      name: "دانشکده فنی و حرفه‌ای شهید قاضی طباطبایی",
+      city: "ارومیه",
+      sex: "پسر",
+      establishedYear: "",
+      NumberOfFaculties: "",
+      id: 286,
+    },
   ]);
 };
 
